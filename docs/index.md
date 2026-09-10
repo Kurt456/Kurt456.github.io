@@ -29,4 +29,4 @@ Professor Name<br>
 | Hello                  | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/) |
 | Name #2                | link |
 | Name #3                | link |
-| Name #4                   | link |
+| Name #4                | link |
